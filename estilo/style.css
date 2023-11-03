@@ -108,7 +108,7 @@ main a:hover {
 }
 
 main picture img {
-    min-width: 500px;
+    min-width: 350px;
     max-width: 100%;
     margin: 15px 0px 15px 0px;
 }
